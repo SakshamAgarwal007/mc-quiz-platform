@@ -14,4 +14,4 @@ Features:
 Future Scope:
 
 - Build a entire site for the test taker to arrange question and marks respectively.
-- Dynamic Highest Score visibility.
+- Dynamic Score visibility.
